@@ -1,0 +1,15 @@
+1. 下载 GitHub 上的项目
+git clone https://github.com/bailicangdu/vue2-happyfri.git
+2.  分支切换
+git checkout
+3. 分支创建
+git checkout -b
+4. 提交代码
+git add
+git commit -m "***"
+git push
+
+nvm install+版本号  下载node
+nvm use+版本号 切换node
+
+node 版本 18
